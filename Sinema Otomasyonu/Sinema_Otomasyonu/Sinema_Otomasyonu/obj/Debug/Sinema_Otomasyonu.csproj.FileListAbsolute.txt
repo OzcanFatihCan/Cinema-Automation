@@ -1,0 +1,44 @@
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Anasayfa.resources
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Bilet_al_secenek.resources
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Vizyondakiler.resources
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Yakında_gelecek_filmler.resources
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.exe.config
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.exe
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.pdb
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.exe
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.pdb
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Yonetici_giris.resources
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Bilet_al.resources
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Passengers.resources
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Yedinci_kogus.resources
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Yonetici_islem.resources
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Film_ekle.resources
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Film_sil.resources
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Musteri.resources
+C:\Users\itopya\Desktop\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Parasite.resources
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.exe.config
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.exe
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.pdb
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csprojAssemblyReference.cache
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Anasayfa.resources
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Bilet_al.resources
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Bilet_al_secenek.resources
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Film_ekle.resources
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Film_sil.resources
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Musteri.resources
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Parasite.resources
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Passengers.resources
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Vizyondakiler.resources
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Yakında_gelecek_filmler.resources
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Yedinci_kogus.resources
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Yonetici_giris.resources
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Yonetici_islem.resources
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.GenerateResource.cache
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.CoreCompileInputs.cache
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.exe
+D:\Fatih\Sinema otomasyonu\Sinema Otomasyonu\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.pdb

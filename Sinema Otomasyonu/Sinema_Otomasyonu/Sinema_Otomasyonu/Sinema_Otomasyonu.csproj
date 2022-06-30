@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{401B14E1-CF6B-49B1-80D4-BEEB8E3E32F2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Sinema_Otomasyonu</RootNamespace>
+    <AssemblyName>Sinema_Otomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anasayfa.Designer.cs">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bilet_al.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bilet_al.Designer.cs">
+      <DependentUpon>Bilet_al.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bilet_al_secenek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bilet_al_secenek.Designer.cs">
+      <DependentUpon>Bilet_al_secenek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Film_ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Film_ekle.Designer.cs">
+      <DependentUpon>Film_ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Film_sil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Film_sil.Designer.cs">
+      <DependentUpon>Film_sil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Musteri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Musteri.Designer.cs">
+      <DependentUpon>Musteri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parasite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parasite.Designer.cs">
+      <DependentUpon>Parasite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Passengers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Passengers.Designer.cs">
+      <DependentUpon>Passengers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vizyondakiler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vizyondakiler.Designer.cs">
+      <DependentUpon>Vizyondakiler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yakında_gelecek_filmler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yakında_gelecek_filmler.Designer.cs">
+      <DependentUpon>Yakında_gelecek_filmler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yedinci_kogus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yedinci_kogus.Designer.cs">
+      <DependentUpon>Yedinci_kogus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetici_giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yonetici_giris.Designer.cs">
+      <DependentUpon>Yonetici_giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetici_islem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yonetici_islem.Designer.cs">
+      <DependentUpon>Yonetici_islem.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Anasayfa.resx">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bilet_al.resx">
+      <DependentUpon>Bilet_al.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bilet_al_secenek.resx">
+      <DependentUpon>Bilet_al_secenek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Film_ekle.resx">
+      <DependentUpon>Film_ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Film_sil.resx">
+      <DependentUpon>Film_sil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Musteri.resx">
+      <DependentUpon>Musteri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parasite.resx">
+      <DependentUpon>Parasite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Passengers.resx">
+      <DependentUpon>Passengers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Vizyondakiler.resx">
+      <DependentUpon>Vizyondakiler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yakında_gelecek_filmler.resx">
+      <DependentUpon>Yakında_gelecek_filmler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yedinci_kogus.resx">
+      <DependentUpon>Yedinci_kogus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yonetici_giris.resx">
+      <DependentUpon>Yonetici_giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yonetici_islem.resx">
+      <DependentUpon>Yonetici_islem.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arka_plan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Passengers_afis.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7_Kogustaki_mucize_afis.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tenet_Afis.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Malazgirt_1071_afis.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fast_and_furıos_9_Afis.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7_Kogustaki_mucize1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7_Kogustaki_mucize2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7_Kogustaki_mucize3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Passengers_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Passengers_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Passengers_3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anasayfa_png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ekle_png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sil_png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Musteri_png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Parasite_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Parasite_3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Parasite_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Parasite_afis.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background7.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
